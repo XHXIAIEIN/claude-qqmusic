@@ -1,0 +1,5 @@
+{
+  "name": "qqmusic",
+  "description": "QQ Music playlist automation via internal web API",
+  "skills": ["skills/qqmusic-playlist"]
+}
